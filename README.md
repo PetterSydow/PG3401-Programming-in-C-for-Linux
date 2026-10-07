@@ -1,6 +1,7 @@
 # PG3401 – Programming in C for Linux
 
 Eksamensbesvarelse i **PG3401 Programming in C for Linux** ved Høyskolen Kristiania, våren 2026.
+(Pdf besvarelsen/ rapporten er ganske godt forklarende oversiketlig)
 
 **Karakter: A**
 
