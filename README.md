@@ -3,9 +3,8 @@
 Eksamensbesvarelse i **PG3401 Programming in C for Linux** ved Høyskolen Kristiania, våren 2026.
 Dokumentasjonsrapporten under `Exam-Submission` beskriver valg, gjennomføring, problemer og refleksjoner knyttet til oppgavene.
 `obj`-mapper og selve EWA-verktøyet er ikke lastet opp. EWA-verktøyet som ble brukt under eksamen tilhører Bengt Østbye / Eastwill Security AS.
-Ved eventuell bruk av EWA-relaterte filer eller selve verktøyet, se beskrivelsen i eksamensoppgaven og kontakt Eastwill Security AS ved behov for tillatelse.
 
-**Karakter: A**
+Ved eventuell bruk av EWA-relaterte filer eller selve verktøyet, se beskrivelsen i eksamensoppgaven og kontakt Eastwill Security AS ved behov for tillatelse.
 
 ## Innhold
 
